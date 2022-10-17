@@ -227,11 +227,15 @@ authors.
       <td align="center"><a href="https://github.com/gasparitiago"><img src="https://avatars.githubusercontent.com/u/3237254?v=4?s=100" width="100px;" alt="Tiago De Gaspari"/><br /><sub><b>Tiago De Gaspari</b></sub></a><br /><a href="#content-gasparitiago" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/skaunov"><img src="https://avatars.githubusercontent.com/u/65976143?v=4?s=100" width="100px;" alt="skaunov"/><br /><sub><b>skaunov</b></sub></a><br /><a href="#content-skaunov" title="Content">🖋</a></td>
       <td align="center"><a href="http://caljacobson.dev"><img src="https://avatars.githubusercontent.com/u/9152032?v=4?s=100" width="100px;" alt="Cal Jacobson"/><br /><sub><b>Cal Jacobson</b></sub></a><br /><a href="#content-cj81499" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/duchonic"><img src="https://avatars.githubusercontent.com/u/34117620?v=4?s=100" width="100px;" alt="Duchoud Nicolas"/><br /><sub><b>Duchoud Nicolas</b></sub></a><br /><a href="#content-duchonic" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/gfaugere"><img src="https://avatars.githubusercontent.com/u/11901979?v=4?s=100" width="100px;" alt="Gaëtan Faugère"/><br /><sub><b>Gaëtan Faugère</b></sub></a><br /><a href="#tool-gfaugere" title="Tools">🔧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/bhbuehler"><img src="https://avatars.githubusercontent.com/u/25541343?v=4?s=100" width="100px;" alt="bhbuehler"/><br /><sub><b>bhbuehler</b></sub></a><br /><a href="#content-bhbuehler" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/nyurik"><img src="https://avatars.githubusercontent.com/u/1641515?v=4?s=100" width="100px;" alt="Yuri Astrakhan"/><br /><sub><b>Yuri Astrakhan</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=nyurik" title="Code">💻</a></td>
+      <td align="center"><a href="http://azzamsa.com"><img src="https://avatars.githubusercontent.com/u/17734314?v=4?s=100" width="100px;" alt="azzamsa"/><br /><sub><b>azzamsa</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=azzamsa" title="Code">💻</a></td>
     </tr>
   </tbody>
-  <tfoot>
-    
-  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
